@@ -1,0 +1,11 @@
+Book ID,Title,Author,Genre,Price,Stock,Rating
+1,The Great Gatsby,F. Scott Fitzgerald,Fiction,10.99,25,4.5
+2,To Kill a Mockingbird,Harper Lee,Fiction,8.99,30,4.8
+3,1984,George Orwell,Science Fiction,12.5,15,4.7
+4,The Catcher in the Rye,J.D. Salinger,Fiction,9.75,20,4.3
+5,The Hobbit,J.R.R. Tolkien,Fantasy,14.99,10,4.9
+6,Brave New World,Aldous Huxley,Science Fiction,11.25,18,4.6
+7,Moby Dick,Herman Melville,Adventure,13.0,12,4.2
+8,War and Peace,Leo Tolstoy,Historical,15.5,8,4.9
+9,The Odyssey,Homer,Classic,9.0,22,4.4
+10,Crime and Punishment,Fyodor Dostoevsky,Crime,10.75,16,4.7
